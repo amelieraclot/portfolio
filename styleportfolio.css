@@ -1,0 +1,44 @@
+body{
+    background-image: url("image/aurora-1197753_1920.jpg");
+    background-size: cover;
+}
+header{
+    color: #EDF8FA ;
+    margin-bottom: 2%;
+}
+#first{
+    background-color: rgba(237, 248, 250 , 0.5);
+}
+#carouselProjet{
+
+    width: 80%;
+   margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+}
+#portfolio{
+    margin-top: 5%;
+    
+}
+#cv{
+    margin-top: 5%;
+    margin-left: 1%;
+    color: #2D3782 ;
+}
+#formulaire{
+    margin-top: 10%;
+    margin-left: 15%;
+    color: #2D3782 ;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+}
+aside{
+    margin-right: 2%;
+}
+main{
+    margin-left: 5%;
+}
